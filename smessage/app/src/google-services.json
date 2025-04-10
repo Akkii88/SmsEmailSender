@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "391930080685",
+    "project_id": "smsmessage-97bca",
+    "storage_bucket": "smsmessage-97bca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391930080685:android:626dce141788968de4c524",
+        "android_client_info": {
+          "package_name": "com.example.smessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391930080685-2u2mgq1g95896o7jglfhg9p5nmfc38i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smessage",
+            "certificate_hash": "b2d7925d2ec587ec7a9b497471ec8ab9711d8229"
+          }
+        },
+        {
+          "client_id": "391930080685-m8h7vml7argfm5oicuh9gfh8qen7bcec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ZTAF5-dAd4otb5UUEiAiCTQvoWXrMHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391930080685-m8h7vml7argfm5oicuh9gfh8qen7bcec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
